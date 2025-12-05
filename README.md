@@ -14,31 +14,6 @@ Next.js speciealist (really loves monolith) but also likes Nest.js and Node.js b
 
 ---
 
-## 🚀 Featured 
-
-### 🏢 [Gobi Tech LLC](https://www.gobitech.dev/en) *(Current)*
-**Role:** Chief Operating Officer & Full-Stack Engineer
-- Leading development team and technical strategy for enterprise software solutions
-- Architecting scalable cloud infrastructure using Docker and Kubernetes
-- Implementing AI-powered features to enhance product capabilities
-- **Tech:** React, Node.js, NestJS, PostgreSQL, Docker, Kubernetes
-
-### 🤖 AI-Powered Application Suite
-Building intelligent applications that leverage machine learning for real-world problems
-- Developed ML models using TensorFlow and scikit-learn for predictive analytics
-- Integrated AI APIs (OpenAI, Anthropic) into production applications
-- Created automated workflows using n8n for business process optimization
-- **Tech:** Python, FastAPI, TensorFlow, React, PostgreSQL
-
-### 🌐 Full-Stack Web Applications
-End-to-end development of responsive, high-performance web applications
-- Built RESTful APIs with Node.js/NestJS serving 10K+ daily requests
-- Implemented real-time features using WebSockets and event-driven architecture
-- Designed and optimized database schemas for performance and scalability
-- **Tech:** TypeScript, React, NestJS, MongoDB, Supabase
-
----
-
 ## 💻 Technical Skills
 <div align="center">
   
@@ -83,13 +58,37 @@ End-to-end development of responsive, high-performance web applications
 </div>
 
 ---
+ 
+## 🚀 Featured 
+
+### 🏢 [Gobi Tech LLC](https://www.gobitech.dev/en) *(Current)*
+**Role:** Chief Operating Officer & Full-Stack Engineer
+- Leading development team and technical strategy for enterprise software solutions
+- Architecting scalable cloud infrastructure using Docker and Kubernetes
+- Implementing AI-powered features to enhance product capabilities
+- **Tech:** React, Node.js, NestJS, PostgreSQL, Docker, Kubernetes
+
+### 🤖 AI-Powered Application Suite
+Building intelligent applications that leverage machine learning for real-world problems
+- Developed ML models using TensorFlow and scikit-learn for predictive analytics
+- Integrated AI APIs (OpenAI, Anthropic) into production applications
+- Created automated workflows using n8n for business process optimization
+- **Tech:** Python, FastAPI, TensorFlow, React, PostgreSQL
+
+### 🌐 Full-Stack Web Applications
+End-to-end development of responsive, high-performance web applications
+- Built RESTful APIs with Node.js/NestJS serving 10K+ daily requests
+- Implemented real-time features using WebSockets and event-driven architecture
+- Designed and optimized database schemas for performance and scalability
+- **Tech:** TypeScript, React, NestJS, MongoDB, Supabase
+
+---
 
 ## 🎯 What I'm Currently Doing
 
 - 🏢 Building and scaling Gobi Tech LLC's technical operations
 - 📚 Deepening expertise in team management and leadership
 - 🤖 Exploring advanced AI/ML applications in production systems
-- 🌱 Contributing to open-source projects
 
 ---
 
