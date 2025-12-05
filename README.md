@@ -15,12 +15,12 @@
 ```yaml
 name: Khuslensaikhan Battsetseg
 location: Poznan, Poland
-current_status: Working on my software development agency. 
+current_status: Working on my own software development agency as a COO and Full-stack engineer. 
 education: Bachelor's in Computer Science and Information Engineering
 passions:
   - Solving problems with software 💻
   - Making things work 🧩
-  - Machine Learning 🤖
+  - Artificial Intelligence 🤖
 
 ```
 
@@ -30,9 +30,7 @@ passions:
 
 🔭 Currently working on my company **Gobi Tech LLC**  
 🌱 Learning **to manage my people**  
-👯 Looking to collaborate on **Open Source Projects**  
 💬 Ask me about **AI, Software Development, or anything**  
-⚡ Fun fact: **I believe coffee is a programmer's best friend ☕**
 
 </div>
 
