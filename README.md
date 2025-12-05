@@ -8,7 +8,7 @@
 
 ## 👋 Professional Summary
 
-Next.js speciealist (really loves monolith) but also likes Nest.js and Node.js but (Learning springboot due to the enterprise customers). Currently leading technical operations and development at Gobi Tech LLC, where I architect and deliver software solutions for our clients. 
+Next.js speciealist (really loves monolith) but also likes Nest.js and Node.js but (Learning springboot due to the enterprise clients). Currently leading technical operations and development at Gobi Tech LLC, where I architect and deliver software solutions for our clients. 
 
 **Core Competencies:** Full-Stack Development • Backend Engineer
 
