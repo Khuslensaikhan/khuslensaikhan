@@ -84,15 +84,6 @@ End-to-end development of responsive, high-performance web applications
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khuslensaikhan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuslensaikhan&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
-</div>
-
----
-
 ## 🎯 What I'm Currently Doing
 
 - 🏢 Building and scaling Gobi Tech LLC's technical operations
