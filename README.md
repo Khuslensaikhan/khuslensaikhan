@@ -14,8 +14,8 @@
 
 ```yaml
 name: Khuslensaikhan Battsetseg
-location: Digital Nomad (Currently in Poland)
-current_status: Developing my own Software Development company in Mongolia called /Gobitech/
+location: Poznan, Poland
+current_status: Working on my software development agency. 
 education: Bachelor's in Computer Science and Information Engineering
 passions:
   - Solving problems with software 💻
