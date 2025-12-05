@@ -16,7 +16,7 @@ Next.js speciealist (really loves monolith) but also likes Nest.js and Node.js b
 
 ## 🚀 Featured Projects
 
-### 🏢 [Gobi Tech LLC](https://gobitech.com) *(Current)*
+### 🏢 [Gobi Tech LLC](https://www.gobitech.dev/en) *(Current)*
 **Role:** Chief Operating Officer & Full-Stack Engineer
 - Leading development team and technical strategy for enterprise software solutions
 - Architecting scalable cloud infrastructure using Docker and Kubernetes
@@ -40,10 +40,9 @@ End-to-end development of responsive, high-performance web applications
 ---
 
 ## 💻 Technical Skills
-
 <div align="center">
-
-### Core Technologies
+  
+Core Technologies
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -51,7 +50,6 @@ End-to-end development of responsive, high-performance web applications
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
-
 ### Backend & Databases
 <p>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
@@ -60,7 +58,6 @@ End-to-end development of responsive, high-performance web applications
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-
 ### DevOps & Tools
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -68,7 +65,6 @@ End-to-end development of responsive, high-performance web applications
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
-
 </div>
 
 ---
