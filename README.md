@@ -1,6 +1,6 @@
 # Khuslensaikhan Battsetseg
 
-**Full-Stack Engineer | COO @ Gobi Tech LLC | AI & Cloud Solutions Architect**
+**Full-Stack Engineer | Co-Founder @ Gobi Tech LLC 
 
 📍 Poznań, Poland | 💼 Open to new opportunities | 🎓 B.S. Computer Science & Information Engineering
 
@@ -8,9 +8,9 @@
 
 ## 👋 Professional Summary
 
-Full-stack software engineer with expertise in building scalable web applications and AI-powered solutions. Currently leading technical operations and development at Gobi Tech LLC, where I architect and deliver enterprise-grade software solutions. Passionate about leveraging cutting-edge technologies to solve complex business problems.
+Next.js speciealist (really loves monolith) but also likes Nest.js and Node.js but (Learning springboot due to the enterprise customers). Currently leading technical operations and development at Gobi Tech LLC, where I architect and deliver software solutions for our clients. 
 
-**Core Competencies:** Full-Stack Development • Cloud Architecture • Team Leadership • AI/ML Integration • API Design
+**Core Competencies:** Full-Stack Development • Backend Engineer
 
 ---
 
