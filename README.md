@@ -101,16 +101,16 @@ passions:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huska69&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huska69&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khuslensaikhan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khuslensaikhan&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huska69&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khuslensaikhan&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huska69&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khuslensaikhan&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -118,7 +118,7 @@ passions:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Huska69&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Khuslensaikhan&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -155,6 +155,6 @@ passions:
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/Huska69">Huska69</a> with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/Khuslensaikhan">Khuslensaikhan</a> with ❤️</i>
 </div>
 
