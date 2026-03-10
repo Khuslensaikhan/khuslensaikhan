@@ -1,8 +1,8 @@
 # Khuslensaikhan Battsetseg
 
-**Full-Stack Engineer | Co-Founder @ Gobi Tech LLC**
+**Full-Stack Engineer | Co-Founder @ Gobitech Agency**
 
-📍 Poznań, Poland | 💼 Open to new opportunities | 🎓 B.S. Computer Science & Information Engineering
+📍 Poznań, Poland | 🎓 B.S. Computer Science & Information Engineering
 
 ---
 
