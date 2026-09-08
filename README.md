@@ -1,22 +1,20 @@
 # Khuslensaikhan Battsetseg
 
-**Full-Stack Engineer | Co-Founder @ Gobitech Agency**
+**Full-Stack Engineer | Founder @ Huslendo LLC**
 
-📍 Poznań, Poland | 🎓 B.S. Computer Science & Information Engineering
+📍 Warsaw, Poland | 🎓 B.S. Computer Science & Information Engineering
 
 ---
 
 ## 👋 Professional Summary
 
-Next.js speciealist (really loves monolith) but also likes Nest.js and Node.js but (Learning springboot due to the enterprise clients). Currently leading technical operations and development at Gobi Tech LLC, where I architect and deliver software solutions for our clients. 
-
-**Core Competencies:** Full-Stack Development • Backend Engineer
+Next.js enthusiast (I really love a good monolith), but I also enjoy working with Python, FastAPI, NestJS, and Node.js. I like understanding how systems work behind the scenes, solving difficult problems, and building things that actually get used. Currently exploring AI agents and strengthening my algorithms and problem solving skills.
 
 ---
 
 ## 💻 Technical Skills
 <div align="center">
-  
+
 ### Languages
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -34,14 +32,16 @@ Next.js speciealist (really loves monolith) but also likes Nest.js and Node.js b
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
-### Databases 
+### Databases
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 ### DevOps & Tools
@@ -52,48 +52,26 @@ Next.js speciealist (really loves monolith) but also likes Nest.js and Node.js b
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 </div>
-
----
- 
-## 🚀 Featured 
-
-### 🏢 [Gobi Tech LLC](https://www.gobitech.dev/en) *(Current)*
-**Role:** Chief Operating Officer & Full-Stack Engineer
-- Leading development team and technical strategy for enterprise software solutions
-- Architecting scalable cloud infrastructure using Docker and Kubernetes
-- Implementing AI-powered features to enhance product capabilities
-- **Tech:** React, Node.js, NestJS, PostgreSQL, Docker, Kubernetes
-
-### 🤖 AI-Powered Application Suite
-Building intelligent applications that leverage machine learning for real-world problems
-- Developed ML models using TensorFlow and scikit-learn for predictive analytics
-- Integrated AI APIs (OpenAI, Anthropic) into production applications
-- Created automated workflows using n8n for business process optimization
-- **Tech:** Python, FastAPI, TensorFlow, React, PostgreSQL
-
-### 🌐 Full-Stack Web Applications
-End-to-end development of responsive, high-performance web applications
-- Built RESTful APIs with Node.js/NestJS serving 10K+ daily requests
-- Implemented real-time features using WebSockets and event-driven architecture
-- Designed and optimized database schemas for performance and scalability
-- **Tech:** TypeScript, React, NestJS, MongoDB, Supabase
 
 ---
 
 ## 🎯 What I'm Currently Doing
 
-- 🏢 Building and scaling Gobi Tech LLC's technical operations
-- 📚 Deepening expertise in team management and leadership
-- 🤖 Exploring advanced AI/ML applications in production systems
+- 🏢 Running Huslendo LLC and building software for international clients.
+- 🤖 Taking the Hugging Face Agents Course and working toward a practical AI job-search agent.
+- 🧠 Practicing data structures and algorithms, and going deeper into backend and system design.
+- 🛠️ Continuing development of my AI Website Conversion Auditor.
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuslen-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuslensaikhan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huslen.0922@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khuslen.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khuslen-dev.onrender.com/)
 
 ---
